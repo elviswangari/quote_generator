@@ -5,3 +5,6 @@ This is a repo containing all the code to a project that generates new quote on 
 it utilizes type.fit api to generate the quotes
 
 also uses HTML, CSS and JavaScript
+
+access live site at 👉👉
+[quote_generator](https://elviswangari.github.io/quote_generator/)
